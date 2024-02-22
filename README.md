@@ -1,10 +1,10 @@
-# Autonomous VTOL for avalanche buried searching: Avionics
+# Performance characteristic analysis of Gas Foil bearing
 
-**Matteo Ragni**
+**Neha Pandey**
 
 _ID 161822_
 
-**Master thesis in Mechatronic Engineering**
+**Master thesis in Mechanical Engineering**
 
 ## Abstract
 
@@ -12,7 +12,7 @@ The aim of the thesis is to inspect and derive a model for an autonomous VTOL th
 
 The first part of the thesis will inspect the state of the art in buried searching, ARTVA transmitter and searching algorithms. Also we will show some of the requirements and technical specifications for a searching drone.
 
-In the second chapter we will expose the problem of searching the position of a transmitting source in near-field with ferromagnetic antennas. The chapter will be closed with a design for a digital ARTVA receiver
+In the second chapter, we will expose the problem of searching the position of a transmitting source in near-field with ferromagnetic antennas. The chapter will be closed with a design for a digital ARTVA receiver.
 
 In the third chapter, a new kind of searching algorithm will be defined, including routines of obstacle-avoidance and altitude-keeping. 
 
